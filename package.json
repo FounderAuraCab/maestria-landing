@@ -1,0 +1,11 @@
+{
+  "name": "maestria-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
